@@ -53,14 +53,9 @@
             "name": "Zachary Seward",
             "age": 45,
             "email": "zseward8@oracle.com"
-        },
-        {
-            "id": 10,
-            "name": "Chucho Updated",
-            "age": 20,
-            "email": "cnorssister9@mayoclinic.com"
         }
     ],
+    
     "books": [
         {
             "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
