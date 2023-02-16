@@ -4,15 +4,15 @@
             "id": 1,
             "user_name": "vikasdongarwar",
             "avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-            "pasword": "vikas101",
+            "password": "vikas101",
             "email": "vikasdongarwar1012@gmail.com"
-        }
-    ],
-    "admin": [
+        },
         {
-            "id": 1,
-            "email": "admin@stockbroker.com",
-            "password": "admin123"
+            "id": 2,
+            "user_name": "admin",
+            "avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+            "password": "admin123",
+            "email": "admin@stockbroker.com"
         }
     ],
     "buystacks": [],
